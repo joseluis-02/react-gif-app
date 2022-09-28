@@ -8,7 +8,7 @@ export const GifApp = () => {
     const addCategoria = ( nuevoValor ) => {
         //console.log( nuevoValor );
         //setCategorias( c => [...c], 'Nuevo Valor');
-        //prmera solucion
+        //prmera solución
         //setCategorias([...categorias,'categorias']);
         //Segundo forma
         // Validar repetidos
